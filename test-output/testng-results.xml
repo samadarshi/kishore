@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="154" started-at="2017-08-11T05:35:51Z" finished-at="2017-08-11T05:35:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="154" started-at="2017-08-11T05:35:51Z" finished-at="2017-08-11T05:35:51Z">
+      <class name="pack3.Ctest">
+        <test-method status="PASS" signature="CreateAtest()[pri:0, instance:pack3.Ctest@100fc185]" name="CreateAtest" duration-ms="0" started-at="2017-08-11T11:05:51Z" finished-at="2017-08-11T11:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAtest -->
+      </class> <!-- pack3.Ctest -->
+      <class name="pack2.Btest">
+        <test-method status="PASS" signature="CreateAtest()[pri:0, instance:pack2.Btest@3a82f6ef]" name="CreateAtest" duration-ms="0" started-at="2017-08-11T11:05:51Z" finished-at="2017-08-11T11:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAtest -->
+      </class> <!-- pack2.Btest -->
+      <class name="pack1.Atest">
+        <test-method status="PASS" signature="CreateAtest()[pri:0, instance:pack1.Atest@5d5eef3d]" name="CreateAtest" duration-ms="31" started-at="2017-08-11T11:05:51Z" finished-at="2017-08-11T11:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAtest -->
+      </class> <!-- pack1.Atest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
